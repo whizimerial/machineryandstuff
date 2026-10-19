@@ -3,7 +3,6 @@ Luanti Mod of Create clone
 --
 The mod uses AI for coding as such
 Gemini, Claude and more
-Artwork and Assets are free to use aslong as it's not Commercial use
 --
 All assets is under CC0
 --
